@@ -4,4 +4,4 @@ This repository contains a collection of my coursework, assignments, and technic
 
 ## Overview
 
-The purpose of this repository is to organize and showcase my academic work across mathematics, computer science, and software engineering courses. It includes problem-solving implementations, algorithmic exercises, and project-based coursework.
+The purpose of this repository is to organize and showcase my  work across mathematics, computer science, and software engineering courses. It includes problem-solving implementations, algorithmic exercises, and project-based coursework.
